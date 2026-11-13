@@ -1,4 +1,4 @@
-# ding-image-canvas
+# image-canvas
 
 Patched DING for Ubuntu 22.04 / GNOME 42 with:
 - Firefox ESR 153.6 images dragged to the desktop or folder icon stay full resolution.
