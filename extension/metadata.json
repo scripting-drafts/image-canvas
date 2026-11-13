@@ -1,6 +1,6 @@
 {
-    "description": "Desktop Icons NG with remote-image drag saving and an Image Canvas right-click action.",
-    "name": "Desktop Icons NG (image drag)",
+    "description": "Desktop Icons NG with an Image Canvas viewer menu and remote-image drag saving.",
+    "name": "Desktop Icons NG (image canvas)",
     "shell-version": [
         "3.38",
         "40",
